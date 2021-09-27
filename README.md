@@ -1,3 +1,10 @@
+# React weather application
+
+A weather application that displays the current temperature of any city in the world. This was built with react, open weather API and react hooks.
+
+# [Link](https://elated-colden-e3594c.netlify.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
