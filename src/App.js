@@ -5,7 +5,7 @@ const api = {
   base: "https://api.openweathermap.org/data/2.5/",
   
 };
-console.log(api.key);
+
 function App() {
   const [city, setCity] = useState("");
   const [weather, setWeather] = useState("");
